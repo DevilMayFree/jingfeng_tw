@@ -2289,7 +2289,7 @@
     
      /*home start*/
     
-     .home-1 .nectar-slider-wrap.loaded .swiper-container > .swiper-wrapper > .swiper-slide .slide-bg-wrap::before{content: "";background-image: url("/wordpress/wp-content/uploads/hamon-newlogo.svg");height: 135px;width:295px;min-width: 30px;
+     .home-1 .nectar-slider-wrap.loaded .swiper-container > .swiper-wrapper > .swiper-slide .slide-bg-wrap::before{content: "";height: 135px;width:295px;min-width: 30px;
     background-repeat: no-repeat;position: absolute;top: 22%;left: 50%;z-index: 10;transform: translate(-50%, -50%);filter: brightness(0) invert(1);opacity: .7;}
     .home-1 .nectar-slider-wrap.loaded .swiper-container > .swiper-wrapper > .swiper-slide:nth-child(-n+2) .slide-bg-wrap::before{filter: none;}
     .home-1 .nectar-slider-wrap.loaded .swiper-container > .swiper-wrapper > .swiper-slide .image-bg{top:0px;}   
